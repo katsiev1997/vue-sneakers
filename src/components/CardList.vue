@@ -8,7 +8,7 @@ const onClickAdd = () => {
 <template>
   <div class="p-10">
     <h2 class="text-3xl font-bold mb-10">Все кроссовки</h2>
-    <div class="grid grid-cols-4 gap-5">
+    <div class="grid grid-cols-2 gap-5">
       <Card
         title="Мужские кроссовки Nike Blazer Mid Suede"
         image-url="/sneakers/sneakers-1.jpg"
